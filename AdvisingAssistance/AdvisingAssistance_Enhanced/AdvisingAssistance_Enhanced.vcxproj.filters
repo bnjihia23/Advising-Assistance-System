@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AdvisingAssistance.cpp">
+    <ClCompile Include="AdvisingAssistance_Enhanced.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

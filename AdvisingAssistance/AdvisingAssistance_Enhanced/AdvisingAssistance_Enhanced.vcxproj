@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7508accb-a632-4e65-a358-639ee52e79f3}</ProjectGuid>
-    <RootNamespace>AdvisingAssistance</RootNamespace>
+    <ProjectGuid>{1f6961f4-b908-48da-8ad2-2dd6c66f7c15}</ProjectGuid>
+    <RootNamespace>AdvisingAssistanceEnhanced</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AdvisingAssistance.cpp" />
+    <ClCompile Include="AdvisingAssistance_Enhanced.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
