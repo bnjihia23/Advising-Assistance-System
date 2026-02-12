@@ -1,4 +1,4 @@
-**CS-499 Category 2 Artifact - Advising Assistance**
+**Advising Assistance System**
 
 
 
@@ -45,4 +45,5 @@ To run this project, you will need:
 
 
  
+
 
